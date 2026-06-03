@@ -1,9 +1,12 @@
+<!-- Inserção de uma linha horizontal para estilização -->
 <hr>
 
 <h4> Usuários Cadastrados</h4>
 
+<!-- Criação de uma tabela com padding entre as células e borda -->
 <table border="1" cellpadding="2">
 
+    <!-- Criação da linha da tabela com <tr> e depois as colunas com o <th> -->
     <tr>
         <th>ID</th>
         <th>Usuário</th>
