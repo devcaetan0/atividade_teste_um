@@ -1,4 +1,5 @@
-header{
+/* Estilização da navbar com padding e cor amarela */
+header {
     background-color: rgb(255, 200, 0);
     padding: 2px;
 }
